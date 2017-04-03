@@ -1,0 +1,22 @@
+
+td{
+	heigh:185.1968503937px;
+	width:185.1968503937px;
+}
+table {
+	height: 450px;
+	width: 450px;
+	background: url("img/field.png") no-repeat;
+	position: absolute;
+	z-index: -1;
+}
+.setX{
+	heigh:185.1968503937px;
+	width:185.1968503937px;
+	background: url("img/X.png") no-repeat;
+}
+.setO{
+	heigh:185.1968503937px;
+	width:185.1968503937px;
+	background: url("img/O.png") no-repeat;
+}
