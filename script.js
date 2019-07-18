@@ -163,6 +163,5 @@ var controller = {
 };
 
 function startOn(event) {
-	document.write(event);
-	//controller.start(event.target.id);
+	controller.start(event.target.id);
 }
